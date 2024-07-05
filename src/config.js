@@ -25,4 +25,4 @@ export default {
     global_color:'#1976D2'
 }
 
-export const BASEURL= "http://localhost:5000/api" 
+export const BASEURL= "http://localhost:5000" 
