@@ -25,4 +25,5 @@ export default {
     global_color:'#1976D2'
 }
 
-export const BASEURL= "http://localhost:5000" 
+export const BASEURL= "https://e-comm-backend-kig4.onrender.com" 
+// export const BASEURL= "http://localhost:5000" 
